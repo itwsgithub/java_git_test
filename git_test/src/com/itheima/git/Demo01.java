@@ -11,5 +11,6 @@ public class Demo01 {
     public void test(){
         int a =10;
         a +=20;
+        System.out.println("clone 添加代码");
     }
 }
