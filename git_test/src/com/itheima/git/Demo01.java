@@ -7,4 +7,9 @@ public class Demo01 {
         System.out.println("hellow git");
         System.out.println("hellow git");
     }
+
+    public void test(){
+        int a =10;
+        a +=20;
+    }
 }
